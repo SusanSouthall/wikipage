@@ -1,0 +1,17 @@
+div {
+  border: 1px solid red;
+}
+.sidebar {
+  width: 10%;
+  float: left;
+  margin: 10px;
+  color: blue;
+}
+.resize{
+  width: 90%;
+  height: auto;
+  margin-bottom: 20px;
+}
+.subjects {
+  font-size: 10px;
+}
